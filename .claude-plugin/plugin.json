@@ -1,0 +1,9 @@
+{
+  "name": "setup-mcps",
+  "description": "Figma, Slack, Atlassian(Jira/Confluence), Notion MCP를 한번에 설치합니다. 비개발자도 'MCP 설치해줘' 한 마디로 4개 MCP 셋업 완료.",
+  "version": "1.0.0",
+  "author": {
+    "name": "DevCHW",
+    "url": "https://github.com/DevCHW"
+  }
+}
